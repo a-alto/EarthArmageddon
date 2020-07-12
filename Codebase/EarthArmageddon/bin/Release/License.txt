@@ -1,0 +1,6 @@
+EARTH ARMAGEDDON	
+
+Developed by Andrea Altomare, Ivan Diano, Youssef Draibine and Alessio Fortuna (3^A I.T.I.S. "G. Marconi" - Jesi)
+
+
+This software is distribuited under freeware license.
